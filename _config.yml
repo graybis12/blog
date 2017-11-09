@@ -1,0 +1,9 @@
+title: Antonis Kritikos Bloog
+author: Antonis Kritikos
+email: graybis12@gmail.com
+description: my awesome blog
+github_username: graybis12
+
+# Build settings
+markdown: kramdown
+theme: minima
